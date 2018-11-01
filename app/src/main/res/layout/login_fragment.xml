@@ -56,8 +56,6 @@
             android:padding="16dp" />
     </com.google.android.material.textfield.TextInputLayout>
 
-
-            //1232423423543
     <Button
         android:id="@+id/btnLoginL"
         android:layout_width="match_parent"

@@ -16,7 +16,7 @@ import com.example.dung.applabit.base.MyBaseActivity
 import kotlinx.android.synthetic.main.activity_profile.*
 
 class ProfileActivity : MyBaseActivity(), OnProfileViewListener, View.OnClickListener {
-
+    private var test: Int = 100
     private var drb: Drawable? = null
 
     private var mCurrentAnimator: Animator? = null
