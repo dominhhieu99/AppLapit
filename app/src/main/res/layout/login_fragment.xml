@@ -57,7 +57,7 @@
     </com.google.android.material.textfield.TextInputLayout>
 
 
-
+            //1232423423543
     <Button
         android:id="@+id/btnLoginL"
         android:layout_width="match_parent"
@@ -67,7 +67,7 @@
         android:text="@string/login"
         android:textAllCaps="false"
         android:textColor="@color/colorTextLight" />
-//sdjfsjdfjsdhf  sadasdasdsadsadasdsdsadas
+
     <TextView
         android:id="@+id/btnRegisterL"
         style="@style/TextAppearance.AppCompat"
