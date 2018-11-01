@@ -65,7 +65,7 @@
         android:text="@string/login"
         android:textAllCaps="false"
         android:textColor="@color/colorTextLight" />
-
+//sdjfsjdfjsdhf
     <TextView
         android:id="@+id/btnRegisterL"
         style="@style/TextAppearance.AppCompat"
@@ -74,6 +74,5 @@
         android:layout_marginTop="16dp"
         android:text="@string/sign_up_for_an_account"
         android:textColor="@color/colorTextLight" />
-
+    <!--LOIGN-->
 </LinearLayout>
-        <!--LOIGN-->
