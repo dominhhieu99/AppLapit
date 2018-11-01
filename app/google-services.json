@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "335624809380",
+    "firebase_url": "https://appketbanlapit.firebaseio.com",
+    "project_id": "appketbanlapit",
+    "storage_bucket": "appketbanlapit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335624809380:android:590aba1eee5122ed",
+        "android_client_info": {
+          "package_name": "com.example.dung.applabit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335624809380-dp29c37fao295hblemtrnle6kmptts2s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dung.applabit",
+            "certificate_hash": "cd0c44e57fc9755a655a431cdbc81de77fe667ee"
+          }
+        },
+        {
+          "client_id": "335624809380-hpq2930vq072lvlbdrci642rj8f8k89p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEGeIZ4EEcscMxhiQ6qtgsj1r_BeUpo1Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335624809380-hpq2930vq072lvlbdrci642rj8f8k89p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
